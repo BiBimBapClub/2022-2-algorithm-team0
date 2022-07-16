@@ -18,7 +18,7 @@
 | 10 | 그래프 2 (MST, 유량) | 준범,이지환 |  |
 
 # 규칙
-[Git 사용법 Notion](https://destiny-heaven-84d.notion.site/Git-Github-128c582a1d434cee9d81c3402bcdb408)
+[Git 사용법 Notion](https://dev-jaemin.notion.site/Git-Github-128c582a1d434cee9d81c3402bcdb408)
 ### **스터디 규칙**
 
 - 규칙

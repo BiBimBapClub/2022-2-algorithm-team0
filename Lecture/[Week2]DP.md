@@ -62,11 +62,11 @@ ex) 행렬의 거듭제곱 등등
 
 ### 병합 정렬
 
-![merge-sort-concepts.png](Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/merge-sort-concepts.png)
+![merge-sort-concepts](https://user-images.githubusercontent.com/108566378/179390057-1454d8f2-614f-4e76-9bcc-f24cbd6c2f62.png)(Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/merge-sort-concepts.png)
 
 ### 퀵 정렬
 
-![quick-sort.png](Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/quick-sort.png)
+![quick-sort](https://user-images.githubusercontent.com/108566378/179390063-4f165503-6133-4a98-afed-f44a75956705.png)(Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/quick-sort.png)
 
 ## 병합 정렬과 퀵 정렬의 시간 복잡도 비교
 
@@ -192,7 +192,7 @@ int count() {
 
 ex) 중복 제거 전 후
 
-![binoo.png](Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/binoo.png)
+![binoo](https://user-images.githubusercontent.com/108566378/179390038-18ff30ae-1680-4073-bceb-dc235b9fd088.png)(Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/binoo.png)
 
 기존의 이항계수 계산
 
@@ -221,7 +221,7 @@ int cache[30][30]; //-1로 초기화해 둔다.
 
 ## 2. 피보나치 수열
 
-![다운로드.png](Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+![다운로드](https://user-images.githubusercontent.com/108566378/179390026-97976de2-0c5c-44e3-afe7-efe5a2e654fb.png)(Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
 
 피보나치의 경우도 동일하다. 기존의 피보나치 함수의 경우 계산했던 것을 다른 하위 함수에 서 다시 계산함으로써 손해를 보게 된다.
 
@@ -284,7 +284,8 @@ BOJ 11726 : 2xn 타일링
 
 2×n 크기의 직사각형을 1×2, 2×1 타일로 채우는 방법의 수를 구하는 프로그램을 작성하시오. 아래 그림은 2×5 크기의 직사각형을 채운 한 가지 방법의 예이다.
 
-![2x5.png](Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/2x5.png)
+![2x5](https://user-images.githubusercontent.com/108566378/179390014-4b01d35f-1df7-4b0c-8a75-f486bc0061a0.png)
+(Week2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8,%20DP%2042506d20fc374dc49e0ef7e35d35851f/2x5.png)
 
 ## 입력
 

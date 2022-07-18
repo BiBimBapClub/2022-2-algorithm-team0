@@ -1,17 +1,10 @@
 # Type your title under this line
 
-
-# Type your body under this line
-
-
 # Title : [type] (#tag) : Description(issue_name/file_description)
 #   ex) Solve #7 : Hello, World
 #   ex) Docs : 브루트 포스 발표자료
 # ! Remember blank line between title and body.
 
-# Body
-# $ Main Idea
-# $ Description
 
 ######################## 
 #  <type> list
@@ -30,18 +23,8 @@
 #   2) type==Docs
 #      - Description에는 업로드하는 파일에 대한 간단한 설명을 적습니다
 # ------------------
-#  Body
-#  - Body는 두부분으로 나누어 적습니다
-# 	1. Main Idea : 문제 해결에 사용된 아이디어를 간단히 적습니다
-#	2. Description : 해당 아이디어를 어떻게 구현했는지 적습니다
-# ------------------
 # [Commit Example]
 # --- Commit Message Start ---
 # Solve #16 : Hello, World
 # 
-# $ Main Idea
-# println을 이용해서 문자열 출력하기
-# $ Description
-# System 객체의 println을 사용해서 Hello world를 출력했습니다
-# --- Commit Message End ---
 #########################
